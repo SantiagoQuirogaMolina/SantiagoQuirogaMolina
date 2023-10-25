@@ -1,16 +1,16 @@
-### Hi there 👋
+# 👋 Hola, soy Santiago
 
-<!--
-**SantiagoQuirogaMolina/SantiagoQuirogaMolina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
+Soy un desarrollador web Full Stack, apasionado por la programación y la creación de experiencias de usuario intuitivas y dinámicas. Hagamos algo especial.
 
-Here are some ideas to get you started:
+## Habilidades
+- Full Stack Web Developer | JavaScript | Java | PHP
+- HTML | CSS | React | Redux | Node.js | Express | Sequelize | PgAdmin | MySQL | MVC | POO
+- Otras habilidades: Git, REST APIs, 🚀 ]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Puedes saber más sobre mí visitando [mi página web](https://santi-developer.netlify.app/).
+
+## Contacto
+- 📫 [LinkedIn](https://www.linkedin.com/in/santiago-quiroga-ab4633230/)
+
+
