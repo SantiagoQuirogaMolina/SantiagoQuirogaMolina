@@ -30,7 +30,7 @@ Soy un desarrollador web Full Stack, apasionado por la programación y la creaci
 ![REST APIs](https://img.shields.io/badge/-REST%20APIs-FF6C37?style=for-the-badge)
 
 Puedes saber más sobre mí visitando mi página web:
-- 🌐 [santi-developer.netlify.app](https://santi-developer.netlify.app/)
+- 🌐 [santi-developer.netlify.app](https://santiago-developer.netlify.app/)
 
 ## Contacto
 - 📫 [LinkedIn](https://www.linkedin.com/in/santiago-quiroga-ab4633230/)
