@@ -33,4 +33,4 @@ Puedes saber más sobre mí visitando mi página web:
 - 🌐 [santi-developer.netlify.app](https://santiago-developer.netlify.app/)
 
 ## Contacto
-- 📫 [LinkedIn](https://www.linkedin.com/in/santiago-quiroga-ab4633230/)
+- 📫 [LinkedIn](https://www.linkedin.com/in/santiago-quiroga-ab4633230/).
